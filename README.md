@@ -42,9 +42,10 @@ To replicate an industry-standard development cycle, our team structuralized pro
 ## 📁 Repository Structure
 
 ```text
-├── index.html          # Main landing page markup (Tailwind integrated)
-├── style.css           # Custom glassmorphism, animations, and typography configurations
-├── scripit.js          # JavaScript implementation (Starfield background, 3D tilt, Scroll-Reveal)
-├── favicon.png         # Browser tab icon
-├── icon.png            # Web application icon
-└── README.md           # Documentation (This file)
+├── index.html                       # Main landing page markup (Tailwind integrated)
+├── style.css                        # Custom glassmorphism, animations, and typography configurations
+├── scripit.js                       # JavaScript implementation (Starfield background, 3D tilt, Scroll-Reveal)
+├── AungHeinOo_Profile.jpg          
+├── HeinLinHtet_Profile.jpg          
+├── KaungSiThuHein_Profile.jpg       
+└── README.md                        # Documentation (This file)
